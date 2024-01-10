@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesAppSQL</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_full_description">Enter Full Description</string>
+    <string name="add">ADD</string>
+    <string name="all_notes">All Notes</string>
+    <string name="update_note">Update Note</string>
+    <string name="update_title">Update Title</string>
+    <string name="update_full_description">Update Full Description</string>
+</resources>
